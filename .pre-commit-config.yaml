@@ -1,4 +1,4 @@
-exclude: .*migrations\/.*
+exclude: '.*\.(ipynb|csv)$'
 repos:
 #  - repo: https://github.com/psf/black-pre-commit-mirror
 #    rev: 24.4.2
