@@ -21,3 +21,4 @@ celerybeat-schedule
 db.*
 .ipynb_checkpoints/
 .python-version
+.ipynb_checkpoints/*
