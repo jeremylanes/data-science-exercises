@@ -20,3 +20,4 @@ node_modules/
 celerybeat-schedule
 db.*
 .ipynb_checkpoints/
+.python-version
